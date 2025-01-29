@@ -1,0 +1,6 @@
+HandwrittenToText/
+│── main.py              # Main application
+│── ocr.py               # OCR functions
+│── image_processing.py   # Preprocessing functions
+│── gui.py               # GUI interface
+│── requirements.txt      # Dependencies
